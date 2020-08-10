@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_SelectBasic ADDVoluntary ADD</name>
+   <tag></tag>
+   <elementGuidId>dd76b446-e414-465f-a981-d67b96f530bb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='ctl00_cphMain_answercontrolb1337459bb244e7989effbf59d6cb1c7_drpl71437492-8fbd-497a-ac84-df35abf2c6e5']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>ctl00$cphMain$answercontrolb1337459bb244e7989effbf59d6cb1c7$drpl71437492-8fbd-497a-ac84-df35abf2c6e5</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onchange</name>
+      <type>Main</type>
+      <value>javascript:setTimeout('__doPostBack(\'ctl00$cphMain$answercontrolb1337459bb244e7989effbf59d6cb1c7$drpl71437492-8fbd-497a-ac84-df35abf2c6e5\',\'\')', 0)</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>ctl00_cphMain_answercontrolb1337459bb244e7989effbf59d6cb1c7_drpl71437492-8fbd-497a-ac84-df35abf2c6e5</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control error-aon-blur</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>attid</name>
+      <type>Main</type>
+      <value>71437492-8fbd-497a-ac84-df35abf2c6e5</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag1</name>
+      <type>Main</type>
+      <value>productSelection</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+		Select
+		Basic AD&amp;D
+		Voluntary AD&amp;D
+
+	</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ctl00_cphMain_answercontrolb1337459bb244e7989effbf59d6cb1c7_drpl71437492-8fbd-497a-ac84-df35abf2c6e5&quot;)</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='ctl00_cphMain_answercontrolb1337459bb244e7989effbf59d6cb1c7_drpl71437492-8fbd-497a-ac84-df35abf2c6e5']</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//span[@id='92tagf8e4f093-66ec-4393-9c9e-4f337abd2914']/select</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[20]/following::select[1]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[21]/preceding::select[1]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[25]/div/span[2]/select</value>
+   </webElementXpaths>
+</WebElementEntity>

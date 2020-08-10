@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>ins_Issue_iCheck-helper</name>
+   <tag></tag>
+   <elementGuidId>0bb1e172-6ca3-4ec5-80df-27f6192eefaf</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='ctl00_cphMain_rptDuePayment_ctl01_grdDuePayment']/tbody/tr/td/span/div/ins</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>ins</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>iCheck-helper</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ctl00_cphMain_rptDuePayment_ctl01_grdDuePayment&quot;)/tbody[1]/tr[@class=&quot;footable-even&quot;]/td[1]/span[@class=&quot;i-checks&quot;]/div[@class=&quot;icheckbox_square-green hover&quot;]/ins[@class=&quot;iCheck-helper&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='ctl00_cphMain_rptDuePayment_ctl01_grdDuePayment']/tbody/tr/td/span/div/ins</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td/span/div/ins</value>
+   </webElementXpaths>
+</WebElementEntity>

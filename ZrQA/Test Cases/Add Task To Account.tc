@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>In this test case ,we test if user is able to add task to an account</description>
+   <name>Add Task To Account</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f6faa3f4-504c-49c6-b2a3-b0520e6d6fbd</testCaseGuid>
+</TestCaseEntity>

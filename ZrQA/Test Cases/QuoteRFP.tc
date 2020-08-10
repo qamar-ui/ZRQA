@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This Test case takes through all possible scenarios on RFP to Quote</description>
+   <name>QuoteRFP</name>
+   <tag>RFPQuote</tag>
+   <comment></comment>
+   <testCaseGuid>bee7f1ae-2bd3-43b4-9ba6-1f1b9095b823</testCaseGuid>
+</TestCaseEntity>
